@@ -1,0 +1,1 @@
+console.log("I ate your homework because you told me to 'do your homework,' and I'm a good boy who follows instructions.")
